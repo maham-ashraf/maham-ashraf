@@ -29,29 +29,6 @@ I am a BSIT student focused on Web Development. I am currently strengthening my 
 ![Node.js](https://img.shields.io/badge/Node.js-learning-green)
 
 
-## Featured Projects
-
-## Resume Builder
-
-Interactive web-based resume builder using JavaScript  
-Helps users generate resumes dynamically
-
-### Portfolio Website
-Personal portfolio showcasing my skills and projects  
- Built with HTML & CSS
-
-### BlogSphere
-Modern blogging platform with structured content system  
- Focus on UI and content organization
-
-### Echocardiography System
-Web-based system for managing medical data  
- Built for academic project
-
-### Transport Automation Portal
-University transport management system  
- Handles routes, registration & fee tracking
-
 
 
 ## Goals
