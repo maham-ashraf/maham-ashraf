@@ -69,6 +69,8 @@ University transport management system
 
 
 
-## Contact
-- Email: your-email@example.com  
-- GitHub: github.com/maham-ashraf
+##  Contact Me
+
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/maham-ashraf-22a641380)
+
+**Email:** mahamashrafgill9@gmail.com
