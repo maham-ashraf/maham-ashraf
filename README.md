@@ -17,16 +17,18 @@ I am a BSIT student focused on Web Development. I am currently strengthening my 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![React](https://img.shields.io/badge/React-blue)
 
+## Backend Basics
 
 ![PHP](https://img.shields.io/badge/PHP-basics-purple)
 ![MySQL](https://img.shields.io/badge/MySQL-database-lightblue)
+ 
+## Tools & Version Control
 
 ![Git](https://img.shields.io/badge/Git-GitHub-black)
 ![GitHub](https://img.shields.io/badge/GitHub-version_control-black)
 
 ![VSCode](https://img.shields.io/badge/VS%20Code-editor-blue)
 
-![Node.js](https://img.shields.io/badge/Node.js-learning-green)
 
 
 
