@@ -10,12 +10,13 @@ I am a BSIT student focused on Web Development. I am currently strengthening my 
 
 
 
-## Tech Stack
+## Frontend Development
 
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![React](https://img.shields.io/badge/React-blue)
+
 
 ![PHP](https://img.shields.io/badge/PHP-basics-purple)
 ![MySQL](https://img.shields.io/badge/MySQL-database-lightblue)
