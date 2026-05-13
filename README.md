@@ -32,9 +32,7 @@ I am a BSIT student focused on Web Development. I am currently strengthening my 
 
 
 
-##  GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maham-ashraf&theme=radical)
 
 
 
