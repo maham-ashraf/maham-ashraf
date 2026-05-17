@@ -4,7 +4,7 @@ I am a BSIT student focused on Web Development. I am currently strengthening my 
 
 ## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maham-ashraf-22a641380)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maham-ashraf-it)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-the-badge&logo=gmail&logoColor=white)](mailto:mahamashrafgill9@gmail.com)
 
 
